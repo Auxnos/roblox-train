@@ -365,4 +365,4 @@ for _,obj in pairs(Objects) do
     obj.Parent = Instance.new("WorldModel",script)
 end
 
-RunScripts()
+--RunScripts()
